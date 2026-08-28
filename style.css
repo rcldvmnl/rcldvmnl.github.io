@@ -718,13 +718,6 @@ section { min-height: 100vh; display: flex; flex-direction: column; justify-cont
     
     /* About Mobile */
     .about-actions { flex-direction: row; align-items: center; gap: 10px; } 
-    /* Ensure buttons fit side-by-side without breaking */
-/*.btn-water, .btn-blob {
-    white-space: nowrap;  /* Keep text on one line */
-    /*padding: 15px 20px;   *//* Reduce side padding slightly (was 35px) */
-    /*flex: 1;      */        /* Make them equal width */
-    /*text-align: center;  */ /* Center text if they stretch */
-    /*justify-content: center;*/
-    /* Add subtle glow to ALL buttons */
+    
 
 }
